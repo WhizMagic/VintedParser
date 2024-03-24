@@ -1,5 +1,5 @@
 Для работы нужен:
-1) VPN (я пользовался Avira VPN)
+1) VPN (я пользовался Avira Phantom VPN)
 2) selenium (pip install selenium) и драйвер под ваш браузер
 3) selenium-wire (pip install selenium-wire)
 
